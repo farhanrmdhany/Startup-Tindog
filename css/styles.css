@@ -1,0 +1,185 @@
+/********************TAG SELECTOR********************/
+body {
+  font-family: 'Montserrat';
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+title {
+  text-align: left;
+}
+
+/********************ID SELECTOR********************/
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+#features {
+  position: relative;
+}
+
+#testimonials {
+  background-color: #ef8172;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+#pricing {
+  padding: 10% 15%;
+}
+
+#footer {
+  padding: 1% 15%;
+}
+
+/********************CLASS SELECTOR********************/
+/*Warna tiap section*/
+.colored-section {
+  background-color: #ff4c68;
+  color: #ffff;
+}
+
+.white-section {
+  background-color: #ffff;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  padding: 0 18px;
+  font-size: 1.25rem;
+  font-weight: 400;
+}
+
+/* Header */
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.big-heading {
+  text-align: left;
+  font-weight: bolder;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.title-image {
+  transform: rotate(30deg);
+  width: 20%;
+  height: auto;
+  position: absolute;
+  right: 20%;
+}
+
+.soccial-media-button {
+  margin: 5% 2%;
+}
+
+/*Features*/
+.feature-title {
+  font-size: 1.25rem;
+}
+
+.features-description {
+  margin: auto;
+}
+
+.features-text {
+  font-weight: 500;
+  color: #63666A;
+}
+
+.features-icon {
+  color: #ef8172;
+  margin: auto;
+  font-size: 3.125rem;
+  padding: 10% 5%;
+}
+
+.features-icon:hover {
+  color: #ff4c68;
+}
+
+/*Testimonials*/
+.testimonial-images {
+  border-radius: 100%;
+  width: 10%;
+  margin: 20px;
+}
+
+.testimonial-text {
+  font-size: 2.75rem;
+  line-height: 1.5;
+}
+
+/*Press*/
+.press-images {
+  width: 7%;
+  margin: 3px 7px;
+}
+
+/*Pricing*/
+.pricing-heading {
+  font-size: 2.75rem;
+  line-height: 1.5;
+}
+
+.card-deck {
+  margin: auto;
+}
+
+.price-column {
+  padding: 3% 2%;
+}
+
+.price-text {
+  font-size: 2.75rem;
+  line-height: 1.5;
+}
+
+/*Cta*/
+.cta-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #ffff;
+  padding-bottom:
+}
+
+/*Footer*/
+.footer-label {
+  padding: 5% 1% 2%;
+  color: #63666A;
+}
+
+/********************MEDIA QUERY********************/
+@media (max-width: 990px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0deg);
+    width: 400px;
+  }
+}
