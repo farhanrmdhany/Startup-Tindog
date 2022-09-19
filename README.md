@@ -8,7 +8,7 @@ This is an example of a simple startup website. Inspired by [Dr. Angela Yu](http
     -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
-    -   [Continued development](#continued-development)
+    -   [Continuous development](#continuous-development)
     -   [Useful resources](#useful-resources)
 -   [Author](#author)
 -   [Acknowledgments](#acknowledgments)
@@ -17,7 +17,7 @@ This is an example of a simple startup website. Inspired by [Dr. Angela Yu](http
 
 ### Links
 
--   [Live Site](https://farhanrmdhany.github.io/Simple-Personal-Website/)
+-   [Live Site](https://farhanrmdhany.github.io/Startup-Tindog/)
 
 ## My process
 
