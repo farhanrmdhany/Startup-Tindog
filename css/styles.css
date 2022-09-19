@@ -12,13 +12,10 @@ p {
   color: #8f8f8f;
 }
 
-title {
-  text-align: left;
-}
-
 /********************ID SELECTOR********************/
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 #features {
@@ -84,6 +81,7 @@ title {
 
 .title-image {
   transform: rotate(30deg);
+  text-align: center;
   width: 20%;
   height: auto;
   position: absolute;
